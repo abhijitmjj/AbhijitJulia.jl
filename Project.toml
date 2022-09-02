@@ -6,6 +6,8 @@ version = "0.1.0"
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
